@@ -9,7 +9,7 @@
       "MID": "MID20349",
       "MD": "The nRF24L01 is a low-power 2.4 GHz wireless transceiver module for short-range data communication.\r\nIt can both transmit and receive data, enabling two-way wireless communication.\r\nIt communicates with microcontrollers such as Arduino, ESP32, and STM32 through SPI.\r\nIt supports data rates up to 2 Mbps and payloads of up to 32 bytes per packet.\r\nIt features automatic acknowledgement, retransmission, and low-power operation, making it suitable for wireless control and sensor applications.\r\n",
       "MT": "Design/Module",
-      "MQNT": 0,
+      "MQNT": 2,
       "MCost": 175.0,
       "MQATG": "#CLASS_0",
       "ML": "",
